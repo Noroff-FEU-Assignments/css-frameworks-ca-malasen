@@ -1,0 +1,28 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  color: $primary;
+  font-size: 27px;
+}
+i {
+  font-size: 25px;
+}
+
+.navbar-brand {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+}
+.navbar-brand.active {
+  background: transparent;
+  color: $primary;
+}
+
+.nav-link {
+  color: $dark;
+}
+.active {
+  background: white;
+  border-radius: 5px;
+}

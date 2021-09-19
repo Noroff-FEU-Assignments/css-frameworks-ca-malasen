@@ -1,0 +1,21 @@
+.card {
+  width: 100%;
+}
+.card-title {
+  color: $dark;
+}
+.card-body button {
+  width: 100%;
+  color: white;
+}
+.btn-white {
+  background: $white;
+  border: $primary solid 0.5px;
+  color: $primary;
+  font-size: 13px;
+}
+
+.btn-primary {
+  color: $white;
+  font-size: 13px;
+}
